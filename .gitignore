@@ -1,0 +1,4 @@
+containerize_api/containerize_api
+*node_modules*
+*.idea
+*__pycache__
